@@ -16,4 +16,4 @@ ___
 
 
 - geospatial datavisualization with https://cartodb.com/
-- Realtime survei https://github.com/onslyde/onslyde
+- Realtime survey https://github.com/onslyde/onslyde
