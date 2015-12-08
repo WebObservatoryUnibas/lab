@@ -12,3 +12,8 @@ ___
 ___
 
 # Recent Work
+
+
+
+- geospatial datavisualization with https://cartodb.com/
+- Realtime survei https://github.com/onslyde/onslyde
