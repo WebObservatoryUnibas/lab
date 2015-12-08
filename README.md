@@ -17,3 +17,4 @@ ___
 
 - geospatial datavisualization with https://cartodb.com/
 - Realtime survey https://github.com/onslyde/onslyde
+- DataScience Students projects https://github.com/justmarkham/DAT-project-examples/
