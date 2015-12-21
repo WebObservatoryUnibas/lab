@@ -2,12 +2,12 @@
 ___
 # Roadmap
 
-1. publish measured data by WebObservatory
-2. Tutorial methods to visualize static data sets
-3. Continous collecting data from the region basel
-4. Monitor the collectiong process
+1. Publish measured data at the University Basel on a Web Observatory
+2. Tutorial methods to visualise static datasets
+3. Continous data collecting process from sources in Basel Area
+4. Monitor the collecting process
 5. Insitu Visualization (without ending the collection)
-6. Publish all data from the first WebObservatory szenario
+6. Publish all data from Web Observatory scenarios
  
 ___
 
