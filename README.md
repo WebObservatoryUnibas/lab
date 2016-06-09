@@ -20,3 +20,4 @@ ___
 - DataScience Students projects https://github.com/justmarkham/DAT-project-examples/
 - Price observation of 6 Easyjet Flights from Basel (BSL) to London-Gatwick (LGW) and return over a period of 7 months: https://github.com/WebObservatoryUnibas/lab/blob/master/easyjet_BSL-LGW.json
 - Tram delay observation at station "Barfüsserplatz" over a period of one month: https://github.com/WebObservatoryUnibas/lab/blob/master/TramDelayTime.json
+- 20min.ch comments
