@@ -21,3 +21,5 @@ ___
 - Price observation of 6 Easyjet Flights from Basel (BSL) to London-Gatwick (LGW) and return over a period of 7 months: https://github.com/WebObservatoryUnibas/lab/blob/master/easyjet_BSL-LGW.json
 - Tram delay observation at station "Barfüsserplatz" over a period of one month: https://github.com/WebObservatoryUnibas/lab/blob/master/TramDelayTime.json
 - 20min.ch comments, tree based: https://github.com/WebObservatoryUnibas/lab/blob/master/2015_06_comments20min_treebased.json.zip
+- watson.ch comments, tree based:
+https://github.com/WebObservatoryUnibas/lab/blob/master/watson_Jun22-Aug17.json.tar.gz
