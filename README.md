@@ -23,3 +23,6 @@ ___
 - 20min.ch comments, tree based: https://github.com/WebObservatoryUnibas/lab/blob/master/2015_06_comments20min_treebased.json.zip
 - watson.ch comments, tree based:
 https://github.com/WebObservatoryUnibas/lab/blob/master/watson_Jun22-Aug17.json.tar.gz
+- free floating car sharing service data:
+https://github.com/WebObservatoryUnibas/lab/blob/master/catchacar.ch_allcardata.z01
+https://github.com/WebObservatoryUnibas/lab/blob/master/catchacar.ch_allcardata.zip
